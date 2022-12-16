@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499483751335",
+    "project_id": "password-manager-b260d",
+    "storage_bucket": "password-manager-b260d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499483751335:android:d17926b0a57c7d24bdbc82",
+        "android_client_info": {
+          "package_name": "com.example.webteck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499483751335-r1atggdf040fefdb4kov1jio1ldpc0r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_VtFjqfDTarRJy84Hid5t8fBo_38S-5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499483751335-r1atggdf040fefdb4kov1jio1ldpc0r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
